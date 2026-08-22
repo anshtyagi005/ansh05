@@ -1,3 +1,3 @@
 # ansh05
 this is my first repo.
-author - anshtyagi
+author - Ansh Tyagi
